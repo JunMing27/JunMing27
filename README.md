@@ -19,7 +19,6 @@
 <!--  <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
  </a> -->
- <a href="https://www.linkedin.com/in/ngan-jun-ming-1829b0254/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 </p>
