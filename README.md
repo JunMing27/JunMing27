@@ -16,13 +16,6 @@
 </p>
 
 <p align="center">
-<!--  <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
- </a> -->
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
-</p>
-<br />
 
 <!-- About Section -->
  # About me
